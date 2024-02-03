@@ -2,4 +2,4 @@
 title: Post from tinaCMS
 ---
 
-Test
+Test 2
